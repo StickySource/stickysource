@@ -4,3 +4,6 @@
 [submodule "stereotype"]
 	path = stereotype
 	url = git@github.com:StickySource/stereotype.git
+[submodule "stickycode"]
+	path = stickycode
+	url = git@github.com:StickySource/stickycode.git
