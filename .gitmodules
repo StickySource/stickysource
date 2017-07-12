@@ -1,0 +1,6 @@
+[submodule "configured"]
+	path = configured
+	url = git@github.com:StickySource/configured.git
+[submodule "stereotype"]
+	path = stereotype
+	url = git@github.com:StickySource/stereotype.git
