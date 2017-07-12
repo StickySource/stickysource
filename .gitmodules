@@ -7,3 +7,6 @@
 [submodule "stickycode"]
 	path = stickycode
 	url = git@github.com:StickySource/stickycode.git
+[submodule "crank"]
+	path = crank
+	url = git@github.com:StickySource/crank.git
