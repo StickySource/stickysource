@@ -10,3 +10,6 @@
 [submodule "crank"]
 	path = crank
 	url = git@github.com:StickySource/crank.git
+[submodule "tile"]
+	path = tile
+	url = git@github.com:StickySource/tile.git
