@@ -13,3 +13,6 @@
 [submodule "tile"]
 	path = tile
 	url = git@github.com:StickySource/tile.git
+[submodule "parent"]
+	path = parent
+	url = git@github.com:StickySource/parent.git
