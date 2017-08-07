@@ -16,3 +16,6 @@
 [submodule "parent"]
 	path = parent
 	url = git@github.com:StickySource/parent.git
+[submodule "plugins"]
+	path = plugins
+	url = git@github.com:StickySource/plugins.git
