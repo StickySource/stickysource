@@ -22,3 +22,6 @@
 [submodule "scheduled"]
 	path = scheduled
 	url = git@github.com:StickySource/scheduled.git
+[submodule "composite"]
+	path = composite
+	url = git@github.com:StickySource/composite.git
