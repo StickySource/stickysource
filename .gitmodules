@@ -19,3 +19,6 @@
 [submodule "plugins"]
 	path = plugins
 	url = git@github.com:StickySource/plugins.git
+[submodule "scheduled"]
+	path = scheduled
+	url = git@github.com:StickySource/scheduled.git
