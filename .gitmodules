@@ -31,3 +31,6 @@
 [submodule "configuration"]
 	path = configuration
 	url = git@github.com:StickySource/configuration.git
+[submodule "mockwire"]
+	path = mockwire
+	url = git@github.com:StickySource/mockwire
