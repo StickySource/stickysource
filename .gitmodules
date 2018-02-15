@@ -34,3 +34,6 @@
 [submodule "mockwire"]
 	path = mockwire
 	url = git@github.com:StickySource/mockwire
+[submodule "ws"]
+	path = ws
+	url = git@github.com:StickySource/ws.git
