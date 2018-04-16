@@ -37,3 +37,6 @@
 [submodule "ws"]
 	path = ws
 	url = git@github.com:StickySource/ws.git
+[submodule "prybar"]
+	path = prybar
+	url = git@github.com:StickySource/prybar.git
