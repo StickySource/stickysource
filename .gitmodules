@@ -40,3 +40,6 @@
 [submodule "prybar"]
 	path = prybar
 	url = git@github.com:StickySource/prybar.git
+[submodule "documentation"]
+	path = documentation
+	url = git@github.com:StickySource/documentation.git
