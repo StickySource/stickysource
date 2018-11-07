@@ -1,7 +1,7 @@
 # stickysource
 The full set of StickySource projects
 
-Read the docs here https://stickycode.readthedocs.io/en/latest/
+Read the docs here https://stickycode.readthedocs.io/en/latest/ [![Documentation Status](https://readthedocs.org/projects/stickycode/badge/?version=latest)](https://stickycode.readthedocs.io/en/latest/?badge=latest)
 
 Configured - Stereotypical typesafe configuration
 
