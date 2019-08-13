@@ -1,0 +1,6 @@
+image:
+  file: .gitpod.dockerfile
+tasks:
+  - command: >
+      branchout init &&
+      branchout status
