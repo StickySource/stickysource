@@ -1,3 +1,4 @@
 FORGE_NAME=stile
 BRANCHOUT_NAME=stickysource
 BRANCHOUT_GIT_BASEURL=git@github.com:StickySource
+BRANCHOUT_PREFIX=sticky

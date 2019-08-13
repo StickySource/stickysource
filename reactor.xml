@@ -15,14 +15,13 @@
 
 	<name>${project.artifactId}</name>
 	<modules>
+		<module>bootstrap/reactor.xml</module>
 		<module>composite/reactor.xml</module>
 		<module>configured/reactor.xml</module>
-		<module>crank/reactor.xml</module>
-		<module>parent/reactor.xml</module>
-		<module>plugins/reactor.xml</module>
 		<module>scheduled/reactor.xml</module>
 		<module>stereotype/reactor.xml</module>
-		<module>stickycode/reactor.xml</module>
-		<module>tile/reactor.xml</module>
+		<module>coercion/reactor.xml</module>
+		<module>reflector/sticky-reflector</module>
+		<module>exception/sticky-exception</module>
 	</modules>
 </project>
