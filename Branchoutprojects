@@ -11,8 +11,11 @@ configured-guice3
 configured-spring25
 configured-spring30
 documentation
+frontmatter-maven-plugin
 happy-maven-plugin
 homebrew-branchout
+kuuty-maven-plugin
+kuuty-model-v18
 mockwire-spring25
 prybar-api
 prybar-discovery
